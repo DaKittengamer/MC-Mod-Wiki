@@ -8,3 +8,6 @@ Uploaded to: CurseForge
 Mod platform: 
 
 Dependencies:
+
+
+3D-Furnace makes it so that the item(s) smelting, burning, and smelted are visible in the texture.
