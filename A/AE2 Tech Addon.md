@@ -1,9 +1,9 @@
 Mod Author: Fireball1725
 
-Versions: 
+Versions: (MC 1.7.10, 1.0-b81) (MC 1.7.2, 0.1-b60)
 
-Uploaded to: 
+Uploaded to: CurseForge
 
 Mod platform: 
 
-Dependencies:
+Dependencies: Applied Energistics 2
