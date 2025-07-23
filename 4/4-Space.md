@@ -16,4 +16,30 @@ Dependencies: Galacticraft
 Planets
 
 Mercury:
-     Mercury is reached using a T2 Rocket.
+          Mercury is reached using a T2 Rocket. It does not have any oxygen and is hot during the day and cold during the night. In      order to survive you need a oxygen mask, gear and tank. It has 38% of the overworld's gravity.
+
+Resources:
+
+   Copper - Copper is a ore.
+
+   Crystal - Crystal is an ore.
+
+   Gold - Gold is an ore.
+
+   Iridium - Iridium is a ore.
+
+   Mercury Surface Rock - Mercury Surface Rock is a building block which can be harvested with any wooden tools or higher although                          it is mined fastest by pickaxes.
+
+   Meteor - Meteor is a ore.
+
+   Tin - Tin is a ore.
+
+Mobs:
+
+   Evolved Zombie - 
+
+   Evolved Spider -
+
+   Evolved Skeleton -
+
+   Evolved Creeper -
