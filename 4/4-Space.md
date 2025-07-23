@@ -10,3 +10,10 @@ Dependencies: Galacticraft
 
 
 4-Space is a addon to Galacticraft. It adds new planets, moons, and more.
+
+
+------------------------------------------
+Planets
+
+Mercury:
+     Mercury is reached using a T2 Rocket.
