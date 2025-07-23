@@ -7,3 +7,6 @@ Uploaded to: 4space.mods.center
 Mod platform: Forge
 
 Dependencies: Galacticraft
+
+
+4-Space is a addon to Galacticraft. It adds new planets, 
