@@ -28,7 +28,10 @@ Resources:
 
    Iridium - Iridium is a ore.
 
-   Mercury Surface Rock - Mercury Surface Rock is a building block which can be harvested with any wooden tools or higher although                          it is mined fastest by pickaxes.
+   Mercury Sub-Surface Rock - Mercury Sub-Surface Rock is a building block which can be harvested using wood tools or better 
+                        and it is mined fastest by pickaxes. It makes up the 3 layers below Mercury Surface Rocks.
+
+   Mercury Surface Rock - Mercury Surface Rock is a building block which can be harvested with any wooden tools or higher although                          it is mined fastest by pickaxes. It composes the top 2 layers of mercury.
 
    Meteor - Meteor is a ore.
 
