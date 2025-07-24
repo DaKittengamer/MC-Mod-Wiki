@@ -28,6 +28,14 @@ Resources:
 
    Iridium - Iridium is a ore.
 
+   Mercury Cobblestone - Mercury Cobblestone is a building block that can be harvested using wood tools or better and is mined the
+                   fastest with a pickaxe. It is obtained by mine Mercury Rock, Surface Rock, or Sub-Surface Rock with a pickaxe
+                   that doesn't have the Silk Touch enchantment.
+                   
+                   Recipes-
+
+   Mercury Rock - Mercury Rock is a building block which can be harvested using wood tools or better and is mined the fastest                 with a pickaxe. It streches from just underneath Mercury Sub-Surface Rock to Bedrock.
+
    Mercury Sub-Surface Rock - Mercury Sub-Surface Rock is a building block which can be harvested using wood tools or better 
                         and it is mined fastest by pickaxes. It makes up the 3 layers below Mercury Surface Rocks.
 
