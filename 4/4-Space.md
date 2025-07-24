@@ -32,7 +32,9 @@ Resources:
                    fastest with a pickaxe. It is obtained by mine Mercury Rock, Surface Rock, or Sub-Surface Rock with a pickaxe
                    that doesn't have the Silk Touch enchantment.
                    
-                   Recipes-
+                   Recipes -
+                   
+                        Smelting - Smelts into Mercury Rock and gives you 0.2 XP per smelt.
 
    Mercury Rock - Mercury Rock is a building block which can be harvested using wood tools or better and is mined the fastest                 with a pickaxe. It streches from just underneath Mercury Sub-Surface Rock to Bedrock.
 
