@@ -29,7 +29,7 @@ Resources:
    Iridium - Iridium is a ore.
 
    Mercury Cobblestone - Mercury Cobblestone is a building block that can be harvested using wood tools or better and is mined the
-                   fastest with a pickaxe. It is obtained by mine Mercury Rock, Surface Rock, or Sub-Surface Rock with a pickaxe
+                   fastest with a pickaxe. It is obtained by mining Mercury Rock, Surface Rock, or Sub-Surface Rock with a pickaxe
                    that doesn't have the Silk Touch enchantment.
                    
                    Recipes -
@@ -45,6 +45,18 @@ Resources:
 
    Meteor - Meteor is a ore.
 
+       Recipes -
+
+            Crafting -
+
+                Meteor Iron Block
+                
+                1 - Meteor iron
+
+                111
+                111
+                111
+
    Tin - Tin is a ore.
 
 Mobs:
@@ -56,3 +68,7 @@ Mobs:
    Evolved Skeleton -
 
    Evolved Creeper -
+
+Structures:
+
+   Dungeon - 
