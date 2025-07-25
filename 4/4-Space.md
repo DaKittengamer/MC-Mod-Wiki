@@ -79,4 +79,4 @@ Structures:
 
         Spawner room - A room contaning a mob spawner for Evolved Zombies, Spiders, Skeletons or Creepers.
 
-        Boss room -
+        Boss room - A room containing a Evolved Creeper Boss.
