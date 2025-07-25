@@ -74,3 +74,9 @@ Structures:
    Dungeon - 
 
         Entrance - A hole leading from the surface down to the dungeon.
+
+        Corridor - Hallway connecting rooms.
+
+        Spawner room - A room contaning a mob spawner for Evolved Zombies, Spiders, Skeletons or Creepers.
+
+        Boss room -
