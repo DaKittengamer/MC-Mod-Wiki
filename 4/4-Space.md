@@ -72,3 +72,5 @@ Mobs:
 Structures:
 
    Dungeon - 
+
+        Entrance - A hole leading from the surface down to the dungeon.
