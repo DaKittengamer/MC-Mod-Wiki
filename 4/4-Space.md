@@ -11,9 +11,7 @@ Dependencies: Galacticraft
 
 4-Space is a addon to Galacticraft. It adds new planets, moons, and more.
 
-
-------------------------------------------
-Planets
+-----
 
 Mercury:
           Mercury is reached using a T2 Rocket. It does not have any oxygen and is hot during the day and cold during the night. In      order to survive you need a oxygen mask, gear and tank. It has 38% of the overworld's gravity.
@@ -69,6 +67,12 @@ Mobs:
 
    Evolved Creeper -
 
+   Evolved Creeper Boss - A boss version of the Evolved Creeper.
+
+                   Drops -
+                   
+                        - 1 T2 Dungeon Key
+
 Structures:
 
    Dungeon - 
@@ -80,3 +84,7 @@ Structures:
         Spawner room - A room contaning a mob spawner for Evolved Zombies, Spiders, Skeletons or Creepers.
 
         Boss room - A room containing a Evolved Creeper Boss.
+
+        Treasure room - A room containg a T2 Treasure Chest which is unlocked with a T2 Dungeon Key.
+
+
