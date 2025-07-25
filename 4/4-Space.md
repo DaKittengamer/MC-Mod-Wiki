@@ -87,4 +87,74 @@ Structures:
 
         Treasure room - A room containg a T2 Treasure Chest which is unlocked with a T2 Dungeon Key.
 
+-----
 
+Venus - Venus is a planet which is reached using a T2 Rocket or better. Venus is hot and has no oxygen so you need a set of Oxygen gear and Thermal Padding. It also has 91% of the Overworld's gravity.
+
+     Resources -
+
+          Sulfur - Sulfur is an ore.
+
+               Crafting -
+
+                    1 - Sulfer Ingot
+                    2 - Stick
+
+                    Sulfer Pickaxe
+
+                    1 1 1         Damage - 3
+                      2           Durability - 416
+                      2           Enchantability - 2
+                                  Mining Lvl - 4
+                                  Mining Speed - 6
+
+                    Sulfur Axe
+
+                    1 1           Damage - 4
+                    1 2           Durability - 416
+                      2           Enchantability - 2
+                                  Mining Lvl - 4
+                                  Mining Speed - 6
+
+                    Sulfur Hoe
+
+                    1 1           Durability - 416
+                      2
+                      2
+
+                    Sulfur Shovel
+
+                    1             Damage - 2
+                    2             Durability - 416
+                    2             Enchantability - 2
+                                  Mining Lvl - 4
+                                  Mining Speed - 4
+
+                    Sulfur Sword
+
+                    1             Damage - 5
+                    1             Durability - 416
+                    2             Enchantability - 2            
+
+          Uranium - Uranium is an ore.
+
+          Ruby - Rubies are a ore.
+
+          Crystal - Crystal is a ore.
+
+          Tin - Tin is a ore.
+
+          Copper - Copper is a ore.
+
+          Iron - Iron is a ore.
+
+          Coal - Coal is a ore.
+
+          
+
+          
+
+          
+
+          
+          
